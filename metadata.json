@@ -1,0 +1,6 @@
+{
+  "name": "Live Streaming & Chat Platform",
+  "description": "Twitch-style live streaming platform with low-latency broadcasting, real-time WebSocket chat, token economy, donations, and unlockable channel perks.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
